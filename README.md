@@ -15,3 +15,9 @@ How to compile:
 ### Running locally
 
 `sbt run`
+
+
+### Description
+
+Reads all the files from input directory: {projectDir}/src/main/resources/ElectoralList . Process the electoral files and converts to json format.
+Json representation is written to output directory: {projectDir}/out/processed_electoral_list 

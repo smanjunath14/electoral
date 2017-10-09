@@ -5,3 +5,4 @@ project/target
 tmp
 .DS_Store
 /.idea_modules
+/out
